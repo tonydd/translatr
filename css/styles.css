@@ -1,0 +1,26 @@
+/* Votre Style */
+
+ul {
+  background: #bbb;
+}
+li, [class*="grid"] > * {
+  background: #ccc;
+}
+header, footer {
+  background: #ddd;
+}
+main {
+  background: #eee;
+}
+aside {
+  background: #aaa;
+}
+
+
+header {
+	min-height: 4vh;
+}
+
+div.flex-container {
+	min-height: 93.3vh;
+}
